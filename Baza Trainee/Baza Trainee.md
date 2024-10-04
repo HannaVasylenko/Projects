@@ -8,7 +8,7 @@ Project website: [https://baza-trainee.tech](https://baza-trainee.tech)
 
 1. [Checklists](https://docs.google.com/document/d/1rjUD7je5HC6pSOnea-kLE7H20IMVSfX2giGvpQhTJVo/edit?usp=sharing)
 2. [Defect reports](https://docs.google.com/spreadsheets/d/1nRc6QTuEiUWEnGDqW_DJTeUfCvZjwtF9lhEatrB9uxQ/edit?usp=sharing)
-3. [Backend testing](https://)
+3. [Backend testing](https://github.com/HannaVasylenko/Projects/tree/master/Baza%20Trainee/API%20Testing)
 
 #### [LinkedIn profile](https://www.linkedin.com/in/hanna-vasylenko-17a1b6222/)
 

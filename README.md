@@ -1,6 +1,6 @@
 ### Hello, my name is Hanna. I am a Junior QA Engineer and have participated in several projects on the Baza Trainee Ukraine platform. I worked on 3 projects:
 
-1. [Baza Trainee](https://baza-trainee.tech)
+1. [Baza Trainee](https://github.com/HannaVasylenko/Projects/blob/master/Baza%20Trainee/Baza%20Trainee.md)
 > Tested website functionality and the admin panel. Created checklists and defect reports. Tested the backend and performed Load testing.
 
 2. [Baza Skill](https://baza-skill.com.ua)
