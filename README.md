@@ -3,7 +3,7 @@
 1. [Baza Trainee](https://github.com/HannaVasylenko/Projects/blob/master/Baza%20Trainee/Baza%20Trainee.md)
 > Tested website functionality and the admin panel. Created checklists and defect reports. Tested the backend and performed Load testing.
 
-2. [Baza Skill](https://baza-skill.com.ua)
+2. [Baza Skill](https://github.com/HannaVasylenko/Projects/blob/master/Baza%20Skill/Baza%20Skill.md)
 > Tested website functionality and the admin panel. Created checklists and defect reports.
 
 3. [Donations for the 127th Brigade](https://127-zbir.vercel.app/)
