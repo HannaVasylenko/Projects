@@ -1,4 +1,4 @@
-# <span style="color: #e231a8;">_Baza Trainee Ukraine_</span> - internships for trainee and junior developers
+# <font color='#e231a8'>_Baza Trainee Ukraine_</font> - internships for trainee and junior developers
 <br><br>
 ![Project website](/assets/traineenew.png)
 <br><br>
