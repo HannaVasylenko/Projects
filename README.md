@@ -6,7 +6,7 @@
 2. [Baza Skill](https://github.com/HannaVasylenko/Projects/blob/master/Baza%20Skill/Baza%20Skill.md)
 > Tested website functionality and the admin panel. Created checklists and defect reports.
 
-3. [Donations for the 127th Brigade](https://127-zbir.vercel.app/)
+3. [Donations for the 127th Brigade](https://github.com/HannaVasylenko/Projects/blob/master/Donations%20for%20the%20127th%20Brigade/Donations%20for%20the%20127th%20Brigade.md)
 > Tested the website functionality. Created checklists and defect reports. Participated in the creation of the product description.
 
 **Tools used on projects:**

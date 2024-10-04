@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6a1c7b-3d26-4bd8-a38e-19d780fb12ed" name="Changes" comment="Add Baza Skill folder">
+    <list default="true" id="6f6a1c7b-3d26-4bd8-a38e-19d780fb12ed" name="Changes" comment="Add Donations for the 127th Brigade folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -81,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728034358932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Donations for the 127th Brigade folder">
+      <option name="closed" value="true" />
+      <created>1728034649489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728034649489</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -89,6 +97,7 @@
     <MESSAGE value="Add assets folder with images" />
     <MESSAGE value="Add Baza Trainee folder" />
     <MESSAGE value="Add Baza Skill folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Baza Skill folder" />
+    <MESSAGE value="Add Donations for the 127th Brigade folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Donations for the 127th Brigade folder" />
   </component>
 </project>
